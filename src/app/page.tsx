@@ -48,7 +48,7 @@ export default function LandingPage() {
               { text: "ابدأ القراءة الآن", href: "#books" },
               { text: "تصفح الدورات", href: "#courses" },
             ]}
-            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BcG9UU5VCKsGpPQiiAdWyylsqo/a-high-quality-modern-educational-platfo-1774780837323-0ceb2e64.png"
+            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BcG9UU5VCKsGpPQiiAdWyylsqo/a-high-quality-modern-educational-platfo-1774780837323-0ceb2e64.png?_wi=1"
             imageAlt="Maktaba DZ Platform Hero"
           />
         </div>
@@ -65,7 +65,7 @@ export default function LandingPage() {
             ]}
             mediaAnimation="slide-up"
             metricsAnimation="slide-up"
-            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BcG9UU5VCKsGpPQiiAdWyylsqo/a-high-quality-modern-educational-platfo-1774780837323-0ceb2e64.png"
+            imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BcG9UU5VCKsGpPQiiAdWyylsqo/a-high-quality-modern-educational-platfo-1774780837323-0ceb2e64.png?_wi=2"
             imageAlt="منصة معرفة شاملة"
           />
         </div>
